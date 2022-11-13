@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Eduardinhaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Eduardinhaa/Eduardinhaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m  Lorena Eduarda
+- 👀 I’m interested in  aprender
+- 🌱 I’m currently  cursando o ensino médio
+- 📫 How to reach me  lorenaeduarda2007@gmail.com
