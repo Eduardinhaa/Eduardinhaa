@@ -5,8 +5,19 @@ h1 {
 
 body {
 background-color: aquamarine;
+}
+p {
+color:bisque
+font-size: 20px;
 
 }
 
+#imagemprincipal {
+width: 390p;
+height: 390px;
+border:10px solid black;
+padding:20px;
+margin:20px;
 
+}
 
